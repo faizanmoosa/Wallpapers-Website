@@ -24,11 +24,14 @@ img {
     border: 1px solid blue;
     padding: 5px;
     margin: 15px 0px 0px;
+    background-color: black;
 }
 a {
     display:inline;
     width: 3px;
-    background-color: aqua;
+    padding: 0px 9px 0px;
+    background-color: black;
+    color: antiquewhite;
 }
 .domain {
     font-size: 4rem;
@@ -38,4 +41,7 @@ a {
     color: darkslateblue;
     margin: 5px;
     padding: 0px 0px 10px;
+}
+.item:hover {
+    cursor: pointer;
 }
