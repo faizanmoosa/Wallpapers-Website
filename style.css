@@ -40,7 +40,13 @@ a {
     color: darkslateblue;
     margin: 5px;
     padding: 0px 0px 10px;
+    position: sticky;
+    top: 0px;
 }
 .item:hover {
     cursor: pointer;
+}
+nav {
+    position: sticky;
+    top: 5rem;
 }
