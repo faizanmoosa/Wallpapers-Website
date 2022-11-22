@@ -49,3 +49,7 @@ a:hover {
     position: sticky;
     top: 5rem;
 }
+.imgs {
+    display: block;
+    text-align: center;
+}
